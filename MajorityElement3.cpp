@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//brute -->TC->O(N^3)
+//brute -->TC->O(N^2)
 
 
 vector<int> better(vector<int> v) {
